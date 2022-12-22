@@ -1,0 +1,15 @@
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\bin\Debug\net7.0\homework.exe
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\bin\Debug\net7.0\homework.deps.json
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\bin\Debug\net7.0\homework.runtimeconfig.json
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\bin\Debug\net7.0\homework.dll
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\bin\Debug\net7.0\homework.pdb
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.csproj.AssemblyReference.cache
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.AssemblyInfo.cs
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.dll
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\refint\homework.dll
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.pdb
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\homework.genruntimeconfig.cache
+C:\Users\Vadim\OneDrive\Рабочий стол\new\seminar\homework\obj\Debug\net7.0\ref\homework.dll
